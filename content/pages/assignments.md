@@ -92,7 +92,7 @@ In the long run?
 Design Technology: Integrated Design and Construction
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "d74af6f9-d4e3-4789-be20-3beab226c13a" "The Beck Group" %}}: DESTINI
+[The Beck Group](http://www.beckgroup.com/): DESTINI
 {{< tdclose >}}
 {{< tdopen >}}
 None
