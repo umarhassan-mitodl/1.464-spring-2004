@@ -5,6 +5,8 @@ description: This section provides details on the major deliverable work for the
   use, or a business plan. It is hoped that most of the projects will be conceived
   by students to follow an area of their interest. Other projects can be on topics
   suggested by the instructor.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
