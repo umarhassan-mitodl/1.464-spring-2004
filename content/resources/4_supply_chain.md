@@ -4,6 +4,8 @@ description: Visibility, Coordination, and Optimization.
 file: /courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/9d3f8283dd46f6f5527a1fff4814be84_4_supply_chain.pdf
 file_size: 22971
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

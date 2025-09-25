@@ -4,6 +4,8 @@ description: This syllabus section provides the course description and informati
   on meeting times, the course instructor, teaching methodology, teaching intent,
   target audience, prerequisites, requirements, grading, and guidelines for writing
   and class presentations.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
