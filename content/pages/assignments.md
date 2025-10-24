@@ -3,8 +3,6 @@ content_type: page
 description: This section contains the written assignments to be handed in at each
   class session, along with questions that students reviewed prior to class to prepare
   for the case-based discussions.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

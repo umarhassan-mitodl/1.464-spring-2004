@@ -33,8 +33,6 @@ description: 'These pro-forma financial statements are for the use of Collaborat
 file: /courses/1-464-e-commerce-and-the-internet-in-real-estate-and-construction-spring-2004/5613194850d082feb1237e937eb4f76f_5colstrproform.pdf
 file_size: 407743
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
